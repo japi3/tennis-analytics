@@ -1,0 +1,61 @@
+clean_name,country,category,tier,surface,prize_money_raw,prize_money_usd,tour
+Adelaide International,Australia,ATP 250,250,Hard,"$766,290",766290,ATP
+Australian Open,Australia,Grand Slam,Grand Slam,Hard,"A$43,250,000",27247500,ATP
+Dallas Open,United States,ATP 500,500,Hard,"$3,035,960",3035960,ATP
+Delray Beach Open,United States,ATP 250,250,Hard,"$710,735",710735,ATP
+Qatar Open,Qatar,ATP 500,500,Hard,"$3,035,960",3035960,ATP
+Dubai Tennis Championships,United Arab Emirates,ATP 500,500,Hard,"$3,415,700",3415700,ATP
+Indian Wells Open,United States,ATP 1000,1000,Hard,"$9,693,540",9693540,ATP
+Miami Open,United States,ATP 1000,1000,Hard,"$9,193,540",9193540,ATP
+U.S. Men's Clay Court Championships,United States,ATP 250,250,Clay,"$710,735",710735,ATP
+Monte-Carlo Masters,France,ATP 1000,1000,Clay,"€6,128,940",6619255,ATP
+Barcelona Open,Spain,ATP 500,500,Clay,"€3,050,800",3294864,ATP
+Madrid Open,Spain,ATP 1000,1000,Clay,"€8,055,385",8699815,ATP
+Italian Open,Italy,ATP 1000,1000,Clay,"€8,055,385",8699815,ATP
+Hamburg Open,Germany,ATP 500,500,Clay,"€2,320,160",2505772,ATP
+French Open,France,Grand Slam,Grand Slam,Clay,"€26,334,000",28440720,ATP
+Stuttgart Open,Germany,ATP 250,250,Grass,"€778,445",840720,ATP
+Halle Open,Germany,ATP 500,500,Grass,"€2,683,820",2898525,ATP
+Mallorca Championships,Spain,ATP 250,250,Grass,"€622,850",672678,ATP
+Wimbledon,United Kingdom,Grand Slam,Grand Slam,Grass,"£24,919,000",31647130,ATP
+Washington Open,United States,ATP 500,500,Hard,"$2,574,145",2574145,ATP
+Canadian Open,Canada,ATP 1000,1000,Hard,"$9,193,540",9193540,ATP
+Cincinnati Open,United States,ATP 1000,1000,Hard,"$9,193,540",9193540,ATP
+Winston-Salem Open,United States,ATP 250,250,Hard,"$828,925",828925,ATP
+US Open,United States,Grand Slam,Grand Slam,Hard,"$40,412,800",40412800,ATP
+China Open,China,ATP 500,500,Hard,"$4,194,080",4194080,ATP
+Shanghai Masters,China,ATP 1000,1000,Hard,"$9,193,540",9193540,ATP
+Almaty Open,Kazakhstan,ATP 250,250,Hard,"$1,085,850",1085850,ATP
+Swiss Indoors,Switzerland,ATP 500,500,Hard,"€2,684,645",2899416,ATP
+Paris Masters,France,ATP 1000,1000,Hard,"€7,703,855",8320163,ATP
+Hellenic Championship,Greece,ATP 250,250,Hard,"€793,530",857012,ATP
+Adelaide International,Australia,WTA 500,500,Hard,"$1,064,510",1064510,WTA
+Australian Open,Australia,Grand Slam,Grand Slam,Hard,"A$43,250,000",27247500,WTA
+Linz Open,Austria,WTA 500,500,Hard,"$1,064,510",1064510,WTA
+Abu Dhabi Open,United Arab Emirates,WTA 500,500,Hard,"$1,064,510",1064510,WTA
+Qatar Open,Qatar,WTA 1000,1000,Hard,"$3,654,963",3654963,WTA
+Dubai Tennis Championships,UAE,WTA 1000,1000,Hard,"$3,654,963",3654963,WTA
+Mérida Open,Mexico,WTA 500,500,Hard,"$1,064,510",1064510,WTA
+Indian Wells Open,United States,WTA 1000,1000,Hard,"$8,963,700",8963700,WTA
+Miami Open,United States,WTA 1000,1000,Hard,"$8,963,700",8963700,WTA
+Charleston Open,United States,WTA 500,500,Clay,"$1,064,510",1064510,WTA
+Stuttgart Open,Germany,WTA 500,500,Clay,"$925,661",925661,WTA
+Madrid Open,Spain,WTA 1000,1000,Clay,"€7,854,000",8482320,WTA
+Italian Open,Italy,WTA 1000,1000,Clay,"€6,009,593",6490360,WTA
+Internationaux de Strasbourg,France,WTA 500,500,Clay,"€925,661",999713,WTA
+French Open,France,Grand Slam,Grand Slam,Clay,"€26,334,000",28440720,WTA
+Queen's Club Championships,United Kingdom,WTA 500,500,Grass,"$1,415,000",1415000,WTA
+German Open,Germany,WTA 500,500,Grass,"€925,661",999713,WTA
+Bad Homburg Open,Germany,WTA 500,500,Grass,"$1,064,510",1064510,WTA
+Wimbledon,United Kingdom,Grand Slam,Grand Slam,Grass,"$25,161,500",25161500,WTA
+Washington Open,United States,WTA 500,500,Hard,"$1,282,951",1282951,WTA
+Canadian Open,Canada,WTA 1000,1000,Hard,"$5,152,599",5152599,WTA
+Cincinnati Open,United States,WTA 1000,1000,Hard,"$5,152,599",5152599,WTA
+Monterrey Open,Mexico,WTA 500,500,Hard,"$1,064,510",1064510,WTA
+US Open,United States,Grand Slam,Grand Slam,Hard,"$41,592,800",41592800,WTA
+Guadalajara Open,Mexico,WTA 500,500,Hard,"$1,064,510",1064510,WTA
+China Open,China,WTA 1000,1000,Hard,"$8,963,700",8963700,WTA
+Wuhan Open,China,WTA 1000,1000,Hard,"$3,654,963",3654963,WTA
+Ningbo Open,China,WTA 500,500,Hard,"$1,064,510",1064510,WTA
+Pan Pacific Open,Japan,WTA 500,500,Hard,"$1,064,510",1064510,WTA
+Hong Kong Open,China,WTA 250,250,Hard,"$275,094",275094,WTA
